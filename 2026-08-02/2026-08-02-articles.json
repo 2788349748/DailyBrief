@@ -6,150 +6,150 @@
       "title": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "excerpt": "12 Weeks, 24 Lessons, AI for All!",
-      "meta": "Jupyter Notebook · ★ 57,126 · 🍴 11,334 · 📈 869 stars today",
+      "meta": "Jupyter Notebook · ★ 57,158 · 🍴 11,337 · 📈 949 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软出品的 AI 入门课程，共 12 周 24 节课，面向零基础学习者。内容涵盖神经网络、计算机视觉、自然语言处理等核心主题，配有代码示例和实践练习，适合自学或课堂教学。"
+      "summary": "微软推出的免费 AI 入门课程，共 12 周 24 课，涵盖机器学习、神经网络、计算机视觉、自然语言处理等主题，配有实践练习，适合零基础学习者快速建立 AI 知识体系。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "excerpt": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "meta": "Python · ★ 12,225 · 🍴 1,514 · 📈 529 stars today",
+      "meta": "Python · ★ 12,231 · 🍴 1,514 · 📈 523 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "系统化交易资源精选列表，汇集高质量库、策略、书籍、博客和教程，覆盖量化交易、回测、风险管理等主题，为量化研究员和交易开发者提供一站式导航。"
+      "summary": "系统化整理交易领域的优秀资源清单，汇集量化库、交易策略、书籍、博客和教程，覆盖从研究到实盘的各类工具，帮助量化交易者和研究者高效查找资料来源。"
     },
     {
       "sourceId": "github-trending",
       "title": "usekaneo/kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "excerpt": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "meta": "TypeScript · ★ 5,661 · 🍴 483 · 📈 778 stars today",
+      "meta": "TypeScript · ★ 5,674 · 🍴 483 · 📈 760 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源项目管理工具，理念是“所需皆有、不需则无”。提供任务追踪、项目协作等核心功能，界面清爽、操作直观，适合希望自托管项目管理软件的团队。"
+      "summary": "开源项目管理工具，坚持“所需即所用，无多余功能”的设计理念，提供项目、任务、时间线和协作管理，界面清爽、操作流畅，适合追求高效灵活的小团队和个人。"
     },
     {
       "sourceId": "github-trending",
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "excerpt": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Cla",
-      "meta": "PowerShell · ★ 11,865 · 🍴 1,795 · 📈 1,360 stars today",
+      "meta": "PowerShell · ★ 11,884 · 🍴 1,798 · 📈 1,320 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向逆向工程、授权渗透测试与安全研究的技能路由工具包，支持 AI 驱动的技能路由、按需工具链引导和自进化知识库，兼容 Claude Code 等 Agent，辅助安全研究人员快速调用合适工具。"
+      "summary": "面向安全研究的一站式 AI 技能路由包：自动判断任务并调用对应工具链，内置持续进化的知识库，支持 Claude Code 等助手，适用于逆向工程、授权渗透测试等场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "excerpt": "21 Lessons, Get Started Building with Generative AI",
-      "meta": "Jupyter Notebook · ★ 114,183 · 🍴 61,214 · 📈 104 stars today",
+      "meta": "Jupyter Notebook · ★ 114,195 · 🍴 61,215 · 📈 108 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软出品的生成式 AI 入门课程，共 21 课，手把手讲解如何用大语言模型构建应用，涵盖 Prompt 工程、RAG、AI Agent 等主题，包含代码与实战项目，适合开发者快速上手。"
+      "summary": "微软出品的生成式 AI 实战教程，包含 21 节课，从提示工程、RAG 到智能体应用，结合代码示例和动手项目，帮助开发者掌握用大模型构建真实应用的方式。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 10,270 · 🍴 1,385 · 📈 145 stars today",
+      "meta": "Java · ★ 10,272 · 🍴 1,385 · 📈 142 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub 官方 Copilot Agent 多平台 SDK，用于将 Copilot 能力集成到应用和服务中。开发者可通过它构建基于 Copilot Agent 的自动化工具、插件和智能助手，扩展代码辅助与 Agent 工作流。"
+      "summary": "GitHub 官方推出的跨平台 SDK，用于把 GitHub Copilot Agent 接入自有应用与服务。提供统一接口与工具链，支持主流语言，让开发者快速构建 AI 辅助功能。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/gh-stack",
       "url": "https://github.com/github/gh-stack",
       "excerpt": "GitHub Stacked PRs",
-      "meta": "Go · ★ 802 · 🍴 36 · 📈 90 stars today",
+      "meta": "Go · ★ 807 · 🍴 36 · 📈 46 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GitHub 官方堆叠式 PR 工具，帮助开发者将大改动拆分为多个小 PR 依次依赖提交，简化审查流程。通过命令行管理堆叠分支，适合大型功能开发和持续集成场景。"
+      "summary": "GitHub 官方堆叠式 PR 管理工具，将大型变更拆分为多个相互依赖的小 PR，逐个审查和合并，减少冲突、加速 Code Review，适合复杂功能与长生命周期分支开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "excerpt": "Build local voice agents with open-source models",
-      "meta": "Python · ★ 10,190 · 🍴 1,247 · 📈 393 stars today",
+      "meta": "Python · ★ 10,196 · 🍴 1,249 · 📈 442 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hugging Face 推出的本地语音 Agent 构建框架，基于开源模型实现语音到语音的实时交互，无需云端 API。开发者可搭建支持语音输入输出的本地智能助手，适用于隐私敏感和离线场景。"
+      "summary": "Hugging Face 开源方案，用于构建本地语音代理：输入语音即可触发模型推理并输出语音回复，基于开源模型、支持离线部署，适合语音助手、客服机器人和边缘设备。"
     },
     {
       "sourceId": "github-trending",
       "title": "abus-aikorea/voice-pro",
       "url": "https://github.com/abus-aikorea/voice-pro",
       "excerpt": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
-      "meta": "Python · ★ 11,728 · 🍴 1,716 · 📈 53 stars today",
+      "meta": "Python · ★ 11,742 · 🍴 1,717 · 📈 58 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向创作者和开发者的 Gradio WebUI 语音工具箱，集成 Edge-TTS、kokoro 等 TTS 引擎，支持 E2/F5-TTS、CosyVoice 零样本音色克隆，并附带 Whisper 转写、YouTube 下载、Demucs 人声分离，适合音频内容生产。"
+      "summary": "为创作者和开发者打造的 Gradio 语音工作台：集成 Edge-TTS、Kokoro 等 TTS，支持 E2/F5-TTS、CosyVoice 零样本音色克隆，配合 Whisper 转写、YouTube 下载与 Demucs 人声分离，覆盖语音内容生产全流程。"
     },
     {
       "sourceId": "github-trending",
       "title": "iv-org/invidious",
       "url": "https://github.com/iv-org/invidious",
       "excerpt": "Invidious is an alternative front-end to YouTube",
-      "meta": "Crystal · ★ 21,602 · 🍴 2,430 · 📈 361 stars today",
+      "meta": "Crystal · ★ 21,607 · 🍴 2,430 · 📈 435 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源的 YouTube 替代前端，可自托管，无广告、不追踪用户，提供订阅、播放列表和隐私友好的观看体验。适合注重隐私的用户通过自己的服务器访问 YouTube。"
+      "summary": "开源的 YouTube 替代前端，去除广告和追踪，提供干净的视频播放页。支持订阅、播放列表、评论与搜索，可自托管，兼顾隐私保护和匿名观看。"
     },
     {
       "sourceId": "github-trending",
       "title": "ansible/ansible",
       "url": "https://github.com/ansible/ansible",
       "excerpt": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on rem",
-      "meta": "Python · ★ 70,089 · 🍴 24,270 · 📈 26 stars today",
+      "meta": "Python · ★ 70,094 · 🍴 24,270 · 📈 30 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "简单的 IT 自动化平台，通过 YAML 编写 playbook 实现应用部署、配置管理、网络配置和云资源编排。无需在目标节点安装代理，SSH 即可执行，适合运维和 DevOps 场景。"
+      "summary": "Ansible 是简单直接的 IT 自动化平台，通过 YAML 定义 playbook，无需在目标主机安装代理，就能完成应用部署、配置管理、网络配置和云资源编排，被运维与 DevOps 广泛采用。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/TRELLIS.2",
       "url": "https://github.com/microsoft/TRELLIS.2",
       "excerpt": "Native and Compact Structured Latents for 3D Generation",
-      "meta": "Python · ★ 9,905 · 🍴 1,196 · 📈 121 stars today",
+      "meta": "Python · ★ 9,912 · 🍴 1,196 · 📈 107 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "微软提出的 3D 生成模型，使用原生且紧凑的结构化潜空间表示生成三维资产，提升生成质量和效率。适合游戏、影视、XR 等领域的 3D 内容创作和自动建模。"
+      "summary": "微软的 3D 生成模型，提出原生紧凑结构潜空间表示，将三维内容编码为更小更规整的结构化潜在变量，提升生成质量和效率，可用于 3D 资产生成与编辑。"
     },
     {
       "sourceId": "github-trending",
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "excerpt": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "meta": "TypeScript · ★ 10,272 · 🍴 987 · 📈 342 stars today",
+      "meta": "TypeScript · ★ 10,283 · 🍴 987 · 📈 227 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "腾讯云推出的 AI Agent 团队级记忆中枢，将对话、文档和代码转化为聊天记忆、技能、LLM 知识库和代码图谱四类可复用资产，并加以治理和安全管控，帮助团队共享上下文、提升 Agent 协作效率。"
+      "summary": "腾讯云开源的 AI Agent 团队记忆中枢，将对话、文档和代码转化为聊天记忆、技能、LLM 知识库和代码图谱四类资产，统一治理与共享，为多 Agent 协作提供长期记忆支持。"
     },
     {
       "sourceId": "github-trending",
       "title": "NomaDamas/k-skill",
       "url": "https://github.com/NomaDamas/k-skill",
       "excerpt": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
-      "meta": "JavaScript · ★ 6,722 · 🍴 795 · 📈 103 stars today",
+      "meta": "JavaScript · ★ 6,726 · 🍴 795 · 📈 53 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向韩语用户的 AI Agent 技能集，将常用能力封装为可复用技能，让 Agent 更贴合韩语环境和韩国用户习惯。适合需要在服务中集成韩语 Agent 的开发者。"
+      "summary": "面向韩语用户的 AI 智能体技能包集合，通过定制化技能让 AI 代理更符合韩国语言、文化与使用习惯，可用于提升韩语聊天、写作及本地化应用的表现。"
     },
     {
       "sourceId": "github-trending",
       "title": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "excerpt": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "meta": "Python · ★ 78,706 · 🍴 10,740 · 📈 204 stars today",
+      "meta": "Python · ★ 78,716 · 🍴 10,741 · 📈 209 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "字节跳动开源的超长任务 SuperAgent 框架，通过沙箱、记忆、工具、技能、子 Agent 与消息网关协同，让 AI 能执行研究、编程和创作等长时间多步骤任务，适合复杂自动化工作流。"
+      "summary": "字节跳动开源的长周期智能体框架，整合沙箱、记忆、工具、技能、子智能体和消息网关，可自主完成研究、编码、创作等复杂任务，适合构建需要多步规划与协作的 AI 应用。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -377,186 +377,6 @@
       "source": "V2EX"
     },
     {
-      "sourceId": "juejin",
-      "title": "08｜韧性：一套接口接三家 API —— LLMProvider",
-      "url": "https://juejin.cn/post/7668692837795725347",
-      "excerpt": "0. 一个让我换模型换到崩溃的下午 我第一次给 catbuddy 接 DeepSeek 的时候，信心满满——不就是再调一个 API 嘛。 结果一跑就炸。Claude 的 system prompt 是",
-      "publishedAt": "2026-08-01T18:21:14.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "大模型技术 模型调用结果解析 概述",
-      "url": "https://juejin.cn/post/7668610212342464527",
-      "excerpt": "在 LangChain 的开发流程中，模型调用结果解析（Output Parsers） 是至关重要的一环。 大模型生成的原始输出通常是长篇文本或特定的对象（如 AIMessage），但在实际业务中，我",
-      "publishedAt": "2026-08-01T17:53:46.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "大模型技术 Ollama 概述",
-      "url": "https://juejin.cn/post/7668704642685059112",
-      "excerpt": "如果说 LangChain 是构建 AI 应用的“大脑框架”，那么 Ollama 就是让这个大脑在你的本地电脑上跑起来的“发动机”。 一、 什么是 Ollama？ Ollama 是一个开源的本地大模型",
-      "publishedAt": "2026-08-01T17:44:20.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "DeepResearchSystem 0x06：LLM as Judge",
-      "url": "https://juejin.cn/post/7668889968384737306",
-      "excerpt": "iOS App上线之前要测试，那么 Agent 迭代上线前怎么保证质量呢？和传统的测试有何区别？这一章就揭开 LLM as Judge的神秘面纱，为我们的 Agent 设计和实现 Judge 模块。",
-      "publishedAt": "2026-08-01T17:05:53.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "02｜50 行跑通一个 Agent Loop：harness 的最小内核",
-      "url": "https://juejin.cn/post/7668610212342333455",
-      "excerpt": "别被「上千行」吓到 很多人看 Agent 框架的源码，第一反应是「这也太复杂了」。catbuddy 的核心循环加上各种治理逻辑确实上千行。但我想告诉你一个让人安心的事实： Agent Loop 的内核",
-      "publishedAt": "2026-08-01T16:20:54.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "workbuddy 获客自动化，每天让浏览器 Agent 帮你巡场",
-      "url": "https://juejin.cn/post/7668889968384639002",
-      "excerpt": "我用浏览器自动化把找客户这件事，从每天两小时手动翻，压缩到一杯咖啡的时间出一份线索表。 大多数人以为获客难在转化。真相是，难在前面那步，找到对的人。 内容你可以批量造，客户得一个一个找。 大家好，我是",
-      "publishedAt": "2026-08-01T15:25:05.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "从 mldong 到 jeeflow：一个工作流引擎的独立进化",
-      "url": "https://juejin.cn/post/7668632356999462946",
-      "excerpt": "从 mldong 框架内置工作流模块，到 98KB 零依赖引擎，再到 Java/Go/Python/Node 四语言同构的 jeeflow 多语言联邦——一篇讲清自研工作流引擎的完整进化路径，jeeflow 系列开篇。",
-      "publishedAt": "2026-08-01T13:57:33.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "MoonBit抓包模块pcap，查看电脑的每一次联网通信",
-      "url": "https://juejin.cn/post/7668906037449834502",
-      "excerpt": "你的电脑每天都在联网：看视频、刷网页、发消息、后台更新。 这些联网动作，本质上都是你的电脑在跟远处的服务器互相传递数据。 传递的数据，在网络上叫数据包，就像公路上跑的一辆辆车。 抓包，就是站在路边把这",
-      "publishedAt": "2026-08-01T13:41:51.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "GPT-5.6 Luna 降价 80%：Agent 真正该重算的是单次成功成本",
-      "url": "https://juejin.cn/post/7668880520002240566",
-      "excerpt": "GPT-5.6 Luna 降价 80%：Agent 真正该重算的是单次成功成本 TL;DR 场景：OpenAI 2026-07-30 公告 Luna Standard 短上下文四项费率同步降到旧价 2",
-      "publishedAt": "2026-08-01T13:29:30.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "写代码这件事，到底该讲究点什么？",
-      "url": "https://juejin.cn/post/7668700706510635027",
-      "excerpt": "程序员圈子里流传着一句老话，代码写得出来不难，难的是半年后自己还看得懂。这句玩笑背后藏着软件工程最核心的痛点——如何让代码在需求不断变化的现实世界里，依然保持清晰、可维护、不崩溃。 SOLID 原则就",
-      "publishedAt": "2026-08-01T12:56:28.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "循环复杂度到底在算什么，Python 代码怎么才能写得让人一看就懂",
-      "url": "https://juejin.cn/post/7668630049608843318",
-      "excerpt": "程序员圈子里经常有这么个场景：接手一个老项目，翻开某个函数，里面嵌套了七八层 if，中间还夹杂着两个 for 循环和一堆 try/except，光是理清楚这段代码到底能走出多少种结果，就得花上半个小时",
-      "publishedAt": "2026-08-01T12:42:46.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "大模型对话记忆持久化踩坑实录：用 Playwright 自动化测了 300 次，终于揪出会话丢失的真凶",
-      "url": "https://juejin.cn/post/7668610212342071311",
-      "excerpt": "凌晨两点被用户工单砸醒：“我晚上跟 AI 聊了 40 分钟的需求，中途刷了下页面，它把前面说的全忘了，又让我重新自我介绍。” 我第一反应是 Redis 里肯定存了，开发环境明明好好的。可这类“间歇性失",
-      "publishedAt": "2026-08-01T12:04:06.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "码库知识库系列（03）：代码 Embedding 策略——原始代码反而比注释增强更好",
-      "url": "https://juejin.cn/post/7669028793588072499",
-      "excerpt": "假设和现实 注释比代码更像自然语言，所以向量模型理解起来应该更好。大多数工程师设计代码 Embedding 时都从这个假设出发。 实验数据给出了不同的答案。",
-      "publishedAt": "2026-08-01T11:57:38.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "开源项目第172期：agentOS — 以库的形式给 AI Agent 一个操作系统，冷启动 92x 更快、内存 47x 更少",
-      "url": "https://juejin.cn/post/7668719001004490778",
-      "excerpt": "引言 这是「每日一个开源项目」系列的第 172 篇。今天的项目是 agentOS —— 一个以 npm 库形式发布的 AI agent 运行时，让你在自己的 Node.js 后端里运行",
-      "publishedAt": "2026-08-01T11:52:00.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "make-goal：把长期 AI 任务从聊天记录里解放出来",
-      "url": "https://juejin.cn/post/7668658871551016998",
-      "excerpt": "make-goal：把长期 AI 任务从聊天记录里解放出来 摘要 很多 AI agent 的短任务表现很好，但一旦任务变成长周期项目，质量就容易开始漂移：计划散落在聊天记录里，环境依赖没有写清楚，验证",
-      "publishedAt": "2026-08-01T11:28:38.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "面试官让我手写虚拟列表——AI生成的版本，快速滚动几下就白屏了",
-      "url": "https://juejin.cn/post/7668613701019467782",
-      "excerpt": "面试被要求手写虚拟列表，AI生成的版本快速滚动时白屏。手写修复只需3行改动——加缓冲区。附面试官6个追问的完整解答和速查表。",
-      "publishedAt": "2026-08-01T11:05:08.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "Vite热更新失效？你可能漏了这个配置",
-      "url": "https://juejin.cn/post/7668704642684338216",
-      "excerpt": "Vite热更新失效？你可能漏了这个配置** -- 引言 在前端开发中，热模块替换（HMR）是现代构建工具的核心功能之一。Vite 作为新一代前端构建工具，凭借其基于原生 ES Modules 的极速热",
-      "publishedAt": "2026-08-01T11:01:19.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "用相关性分析消除“冗余特征”",
-      "url": "https://juejin.cn/post/7668610212341809167",
-      "excerpt": "刚开始学机器学习时，我也像大部分人 一样，有个很朴素的想法：特征越多，模型能学到的信息就越多，效果自然越好。 所以每次拿到数据，我就拼命往模型里塞特征——能算出来的统计量全加上，能衍生出来的比率全拼上",
-      "publishedAt": "2026-08-01T10:35:34.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "甲方正在记着办理经营性ICP许可证，我三天二开了一个在线教育系统",
-      "url": "https://juejin.cn/post/7668600489444114484",
-      "excerpt": "实际上只需要加上讲师入驻，让讲师能够发布自己的教学视频 来盈利。 系统原来的样子： 我用AI 直接开始疯狂对话 ，改成了如下： 太爽了 赶紧用起来吧 我在用 TRAE Work AI 办公平台，搞定各",
-      "publishedAt": "2026-08-01T10:27:33.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
-      "sourceId": "juejin",
-      "title": "影刀RPA技术深度：CSS选择器高级实战指南——伪类属性选择器与性能对比完全解析",
-      "url": "https://juejin.cn/post/7668573629287088164",
-      "excerpt": "影刀RPA技术深度：CSS选择器高级实战指南——伪类属性选择器与性能对比完全解析 作者：林焱 CSS选择器是影刀RPA中网页元素定位的另一核心技术。相比XPath，CSS选择器语法更简洁，性能更好。本",
-      "publishedAt": "2026-08-01T10:12:31.000Z",
-      "category": "tech",
-      "source": "掘金"
-    },
-    {
       "sourceId": "qbitai",
       "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
       "url": "https://www.qbitai.com/2026/08/464781.html",
@@ -653,8 +473,7 @@
       "excerpt": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "publishedAt": "2026-08-01T00:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI公布了数学和理论计算机科学领域的十项新进展，涵盖几何、密码学和复杂性理论，解决了一些长期未决的开放问题。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -663,8 +482,7 @@
       "excerpt": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI介绍了其安全、安保、透明度和来源溯源实践如何支持欧洲负责任AI治理，并表示随着欧盟《人工智能法案》推进，相关工作将持续开展。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -673,8 +491,7 @@
       "excerpt": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "OpenAI发布题为“构建充裕智能”的文章，提出采用全栈方法，使先进AI变得更强大、更实惠、更广泛可用，以推动规模化普及。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -683,8 +500,7 @@
       "excerpt": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News",
-      "summary": "Univé公司结合领导力、负责任治理和员工主导创新，利用ChatGPT Enterprise打造了一支具备AI素养的劳动力队伍，以大规模推进工作转型。"
+      "source": "OpenAI News"
     },
     {
       "sourceId": "openai-news",
@@ -2217,8 +2033,7 @@
       "excerpt": "apart from DeepSeek V4-Flash 0731, a quiet day.",
       "publishedAt": "2026-08-01T01:38:09.000Z",
       "category": "tech",
-      "source": "Latent Space",
-      "summary": "据AI新闻简报最新一期报道，当日除DeepSeek发布V4-Flash 0731模型外，AI领域并无其他重大进展，整体氛围较为平静。"
+      "source": "Latent Space"
     },
     {
       "sourceId": "latent-space",
@@ -2490,7 +2305,7 @@
       "category": "tech",
       "meta": "@fridayresearch_ · 1.9K 粉丝 · 1.6M 阅 · 597 赞 · 451 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "FRIDAY 推出个人购物智能，针对用户品味数据分散在四十家公司、受广告商支配的现状，构建本地设备端私人助手，让用户真正拥有自己的购物偏好数据。"
+      "summary": "FRIDAY 提出把分散在 40 家公司、听命于广告主的用户品味数据收归个人所有，正在打造常驻设备端的个人购物智能，强调用户本就拥有最有价值的品味资产，属于新概念产品发布。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2501,7 +2316,7 @@
       "category": "tech",
       "meta": "@MiniMax_AI · 107.4K 粉丝 · 42.3K 阅 · 696 赞 · 103 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "MiniMax 发布通用多模态生成模型 H3，统一理解文本、图像、视频和音频的上下文，可生成带原生立体声的视频，突破任务与模态边界，是多模态生成领域的新进展。"
+      "summary": "MiniMax 发布开源通用多模态生成模型 H3，统一理解文本、图像、视频与音频语境，可生成自带原生立体声的视频，进一步打通任务与模态边界，是开源多模态领域的新进展。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2512,7 +2327,7 @@
       "category": "tech",
       "meta": "@AITECHio · 455.4K 粉丝 · 32.6K 阅 · 512 赞 · 110 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 新闻汇总：OpenAI 让 ChatGPT 在操作电脑时支持自然语音对话，AI 代理能力再进一步，用户可与 AI 实时语音交互并让它执行电脑任务。"
+      "summary": "AI 新闻速览：OpenAI 为 ChatGPT 新增实时语音交互能力，用户可一边与它自然对话，一边让它操作电脑，AI 代理使用门槛进一步降低，属于功能更新汇总。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2523,7 +2338,7 @@
       "category": "tech",
       "meta": "@ActionModelAI · 57.6K 粉丝 · 6.8K 阅 · 521 赞 · 390 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "据法庭文件和内部通讯，Anthropic 被曝购买稀有书籍用于训练 AI 后销毁，以保持数据独占性，事件涉及 15 亿美元和解，引发伦理争议。"
+      "summary": "据法庭文件、内部通信及 15 亿美元和解协议，Anthropic 被指收购稀有书籍后作为文本数据喂给 AI 再销毁，做法被形容为反乌托邦，这是关于模型训练数据来源的争议性爆料。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3754,7 +3569,7 @@
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "excerpt": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "publishedAt": "2026-08-01T21:13:17.000Z",
+      "publishedAt": "2026-08-02T00:02:18.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -4030,13 +3845,12 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: aged care nurses get pay rise; fuel excise cut due to end at midnight",
+      "title": "Australia news live: Jane Hume says PM has shown ‘extraordinary lack of curiosity’ on alleged corruption on construction sites",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
-      "excerpt": "Increase in annual pay packets began from 1 August. Follow updates Get our breaking news email, free app or daily news podcast Gosling doesn’t need to be stood down from special envoy role, says Butler The health minister, Mark Butler, has rejected calls for the prime minister to stand down Luke Gos",
-      "publishedAt": "2026-08-01T23:14:34.000Z",
+      "excerpt": "Meanwhile, cut to fuel excise to due end at midnight. Follow updates Get our breaking news email, free app or daily news podcast Deputy Liberal leader says party will not govern in coalition with One Nation Questions over whether the Liberal party would govern with One Nation have continued to follo",
+      "publishedAt": "2026-08-01T23:38:07.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "澳大利亚养老护理护士自8月1日起获得加薪；燃油消费税减免措施于当晚午夜到期。卫生部长马克·巴特勒表示，戈斯林无需被免去特使职务。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4292,6 +4106,15 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Teen Hikers Rescued 12 Hours Into Google Maps Hike",
+      "url": "https://www.nytimes.com/2026/08/01/world/canada/canada-hiking-rescue-google-maps.html",
+      "excerpt": "The three teenage boys estimated their hike time would be over five hours on a rugged trail in British Columbia, Canada. A helicopter crew had to retrieve them.",
+      "publishedAt": "2026-08-01T23:38:44.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
       "url": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
       "excerpt": "A previously undisclosed subpoena, involving reporting on a failed SEAL Team 6 mission in North Korea, reflects the government’s expanding campaign to investigate leaks of secrets.",
@@ -4422,15 +4245,6 @@
       "url": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
       "excerpt": "The country’s largest public university is requiring all students who passed its entrance exam to take a new test after experts found evidence of widespread cheating, including with A.I.",
       "publishedAt": "2026-08-01T05:59:04.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Far-right politicians seize on Ceuta",
-      "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
-      "excerpt": "Several migrants who crossed into Ceuta attributed their arrival to lax Moroccan border protocols. But Europe’s anti-immigrant politicians blamed Spain’s migrant-friendly policies.",
-      "publishedAt": "2026-07-31T18:30:29.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4796,13 +4610,39 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Iran war live: Tehran warns of ‘decisive’ response to any US ‘aggression’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "excerpt": "Iran's Araghchi issues warning in separate phone calls with the foreign ministers of Turkiye, Pakistan and Saudi Arabia.",
+      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Singapore bans UK band Massive Attack over Palestinian flag",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/singapore-bans-uk-band-massive-attack-over-palestinian-flag?traffic_source=rss",
+      "excerpt": "Singapore barred two members of British band Massive Attack from re-entering the country.",
+      "publishedAt": "2026-08-01T23:57:30.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "New York Times reveals Trump administration subpoena over North Korea story",
+      "url": "https://www.aljazeera.com/news/2026/8/1/new-york-times-reveals-trump-administration-subpoena-over-north-korea-story?traffic_source=rss",
+      "excerpt": "The Justice Department faces criticism for increasing use of subpoenas in attempts to compel journalists to reveal info.",
+      "publishedAt": "2026-08-01T23:42:44.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
       "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
       "excerpt": "Taiwan's GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
       "publishedAt": "2026-08-01T23:15:40.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "台湾经济因美国大量进口人工智能芯片而快速增长，GDP飙升。但专家警告，特朗普政策及中美关系可能给台湾经济带来风险，能否保持增长势头存疑。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4896,9 +4736,9 @@
     },
     {
       "sourceId": "aljazeera",
-      "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+      "title": "Three die in Moscow restaurant bombing",
       "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
-      "excerpt": "More than 21 people also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+      "excerpt": "Russian officials say more than 21 others were ​injured ‌in the blast in Kudrinskaya Square.",
       "publishedAt": "2026-08-01T18:22:35.000Z",
       "category": "politics",
       "source": "Al Jazeera"
@@ -4990,33 +4830,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
       "excerpt": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
       "publishedAt": "2026-08-01T15:34:15.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "India cracks down on protesters accused of ‘abusing’ Modi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
-      "excerpt": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
-      "publishedAt": "2026-08-01T14:28:20.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Israeli strike destroys Gaza hospital warehouse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-      "excerpt": "Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say.",
-      "publishedAt": "2026-08-01T14:07:36.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-      "excerpt": "Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout.",
-      "publishedAt": "2026-08-01T13:59:19.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
