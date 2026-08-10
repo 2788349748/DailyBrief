@@ -6,120 +6,120 @@
       "title": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "excerpt": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "meta": "TypeScript · ★ 10,931 · 🍴 1,137 · 📈 2,319 stars today",
+      "meta": "TypeScript · ★ 10,999 · 🍴 1,146 · 📈 2,356 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Prime Intellect 推出的自改进强化学习智能体（RLM），面向编码工作流与长时间自主任务。它能在运行中持续优化自身策略，适合需要稳定执行多步开发流程、自动修复与迭代代码的开发者，减少人工介入。"
+      "summary": "面向编程工作流和长期自主任务的自我改进型 RLM 智能体，可在代码编写、调试和自动化执行中持续学习优化，适合需要长时间无人值守运行的开发场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "vitali87/code-graph-rag",
       "url": "https://github.com/vitali87/code-graph-rag",
       "excerpt": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "meta": "Python · ★ 2,954 · 🍴 519 · 📈 59 stars today",
+      "meta": "Python · ★ 2,971 · 🍴 519 · 📈 96 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向单体仓库的 RAG 检索工具，用知识图谱对多语言代码库进行索引和查询。支持通过自然语言理解、检索并编辑跨语言代码结构，适合需要快速定位和修改大仓代码的开发者，让 AI 辅助代码维护更准确。"
+      "summary": "面向 monorepo 的 RAG 工具，利用知识图谱增强 AI 对多语言代码库的理解，支持自然语言查询、代码解读与编辑，适合大型仓库的代码检索与智能辅助开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "excerpt": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "meta": "Shell · ★ 140,604 · 🍴 22,973 · 📈 932 stars today",
+      "meta": "Shell · ★ 140,636 · 🍴 22,976 · 📈 858 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一套由多个专业 AI 智能体组成的“代理机构”，从前端开发、Reddit 社区运营到创意注入、事实检查等角色各司其职，每个智能体都有个性、流程和专属技能，适合需要自动化执行多样化网络与内容任务的团队。"
+      "summary": "一套“AI 代理机构”式的智能体集合，包含前端开发、社区运营、创意注入、质量检查等各具特色的专家 agent，每个都有明确流程和角色定位，可用于自动化完成多种业务任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "pranshuparmar/witr",
       "url": "https://github.com/pranshuparmar/witr",
       "excerpt": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "meta": "Go · ★ 20,600 · 🍴 725 · 📈 342 stars today",
+      "meta": "Go · ★ 20,626 · 🍴 726 · 📈 210 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "命令行排查工具：回答“这是为什么在运行？” 能将任意进程、端口、容器或文件溯源到启动它的源头，提供 CLI 和 TUI 界面。适合系统管理员、开发者在排查服务器异常或追踪进程来源时快速定位根因。"
+      "summary": "命令行/TUI 工具，用于定位进程、端口、容器或文件的启动来源。通过反向追踪“是谁启动了它”，帮助排查异常进程、理解系统依赖，适合系统运维和故障诊断场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "excerpt": "",
-      "meta": "Python · ★ 7,056 · 🍴 936 · 📈 105 stars today",
+      "meta": "Python · ★ 7,070 · 🍴 936 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google DeepMind 的 WeatherNext 项目，从仓库名看是面向气象预测的深度学习模型或工具集，具体实现细节目前未在描述中披露，建议查看仓库文档与代码，适合气象研究与预报应用场景。"
+      "summary": "Google DeepMind 的天气预测项目，利用机器学习技术进行数值天气预报，目标是比传统方法更快、更准地预测未来天气变化，适用于气象研究和预报服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "JavaScript · ★ 85,091 · 🍴 9,155 · 📈 670 stars today",
+      "meta": "JavaScript · ★ 85,115 · 🍴 9,159 · 📈 680 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为 AI 编码智能体准备的工程级技能库，提供生产环境下可用的高质量技能定义，帮助编码 agent 更好地完成开发任务。适合将 AI 接入真实项目、希望提升代码生成与重构质量的开发团队。"
+      "summary": "面向 AI 编程代理的生产级工程技能集，提供经过实战检验的开发流程与最佳实践，帮助代理更可靠地完成代码编写、代码审查、测试与重构等任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "excerpt": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "meta": "Python · ★ 61,150 · 🍴 51,987 · 📈 287 stars today",
+      "meta": "Python · ★ 61,167 · 🍴 51,991 · 📈 306 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "LLM 驱动的多市场股票智能分析系统，整合多源行情与实时新闻，提供决策看板和自动推送，支持零成本定时运行。适合个人投资者或量化爱好者用来自动跟踪市场动态、生成每日分析报告并推送结果。"
+      "summary": "LLM 驱动的多市场股票智能分析系统，聚合多源行情与实时新闻，生成决策看板并自动推送，支持零成本定时运行，适合个人投资者进行每日股票分析和复盘。"
     },
     {
       "sourceId": "github-trending",
       "title": "goauthentik/authentik",
       "url": "https://github.com/goauthentik/authentik",
       "excerpt": "The authentication glue you need.",
-      "meta": "Python · ★ 24,246 · 🍴 1,856 · 📈 312 stars today",
+      "meta": "Python · ★ 24,262 · 🍴 1,858 · 📈 310 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源身份认证平台，定位为“认证粘合剂”，负责把各类应用、服务与身份源连接起来，提供统一登录、单点登录、访问控制等功能。适合需要为多云、微服务或内部工具链搭建统一认证层的团队。"
+      "summary": "开源身份认证平台，提供认证“粘合剂”，统一管理应用登录、SSO、多因素认证和用户权限，支持多种标准协议，适合企业应用的身份集成与访问治理。"
     },
     {
       "sourceId": "github-trending",
       "title": "google/skills",
       "url": "https://github.com/google/skills",
       "excerpt": "Agent Skills for Google products and technologies",
-      "meta": "Python · ★ 17,196 · 🍴 1,390 · 📈 532 stars today",
+      "meta": "Python · ★ 17,207 · 🍴 1,390 · 📈 528 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 官方发布的 Agent Skills 集合，覆盖 Google 产品和技术，为 AI 智能体提供可直接调用的标准化技能模块。适合基于 Google 生态做 AI 自动化工具、需要把搜索、办公等能力接入 agent 的开发者。"
+      "summary": "面向 Google 产品与技术的 Agent Skills 集合，为 AI 智能体提供调用 Google 搜索、地图、Workspace 等服务的技能模块，方便开发者构建跨 Google 生态的自动化工作流。"
     },
     {
       "sourceId": "github-trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "meta": "Python · ★ 125,454 · 🍴 14,835 · 📈 333 stars today",
+      "meta": "Python · ★ 125,479 · 🍴 14,839 · 📈 365 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ComfyUI 是最强大的模块化扩散模型界面，基于图/节点交互方式组织 Stable Diffusion 等模型工作流，同时提供 GUI、API 和后端支持。适合 AI 绘画面师与开发者灵活构建、复用和部署图像生成管线。"
+      "summary": "模块化的扩散模型 GUI、API 和后端，采用图/节点式工作流界面，用户可自由组合节点搭建图像生成、视频生成等流程，适合 AI 绘画创作者与工作流开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "harveyai/harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
       "excerpt": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-      "meta": "Python · ★ 803 · 🍴 174 · 📈 87 stars today",
+      "meta": "Python · ★ 817 · 🍴 176 · 📈 47 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Harvey Labs 发布的基准测试，用于评估和提升 AI 智能体在法律工作上的支持能力，覆盖法律研究、文书处理等场景。适合法律科技从业者、律师团队和 AI 研究人员衡量智能体在法律领域的实用表现与短板。"
+      "summary": "面向法律工作场景的智能体评测基准，用于衡量和改进 AI 在法律研究、文书审阅等任务上的能力，为法律领域 agent 的研发提供标准测试集。"
     },
     {
       "sourceId": "github-trending",
       "title": "pingdotgg/t3code",
       "url": "https://github.com/pingdotgg/t3code",
       "excerpt": "",
-      "meta": "TypeScript · ★ 17,630 · 🍴 4,008 · 📈 208 stars today",
+      "meta": "TypeScript · ★ 17,645 · 🍴 4,009 · 📈 163 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "pingdotgg/t3code 仓库当前没有附带描述，仅从名称看与 T3 技术栈相关，可能是基于 TypeScript 的全栈代码项目。具体功能、适用场景需通过仓库代码或 README 了解，适合正在跟进 T3 生态的开发者保持关注。"
+      "summary": "T3 Code 是创作者发布的编码相关项目，结合 T3 生态背景，可能提供 TypeScript 全栈开发的辅助工具；目前缺少官方描述，具体功能待确认。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -443,7 +443,8 @@
       "excerpt": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "publishedAt": "2026-08-07T15:20:00.000Z",
       "category": "tech",
-      "source": "OpenAI News"
+      "source": "OpenAI News",
+      "summary": "OpenAI 发文回应关键网络能力的新前沿，分享其 Astra 模型的初步网络安全评估结果，并介绍为加强安全防护与控制所采取的措施。"
     },
     {
       "sourceId": "openai-news",
@@ -452,7 +453,8 @@
       "excerpt": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "publishedAt": "2026-08-07T09:00:00.000Z",
       "category": "tech",
-      "source": "OpenAI News"
+      "source": "OpenAI News",
+      "summary": "OpenAI 报道 HSP GRUPPE 如何利用 ChatGPT Enterprise 构建 AI 能力，提升税务咨询与客户服务的生产力、工作质量，并创造更多服务空间。"
     },
     {
       "sourceId": "openai-news",
@@ -983,7 +985,8 @@
       "excerpt": "",
       "publishedAt": "2026-08-07T17:53:32.000Z",
       "category": "tech",
-      "source": "Hugging Face Blog"
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face 博客发布 TutorMoments 一文，聚焦 AI 导师的干预时机，探讨其是否知道何时给予帮助、何时保持克制。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1733,7 +1736,8 @@
       "excerpt": "**OpenAI** escalates its upcoming **Astra** model to \"critical\" cyber status due to significant advancements in agentic coding and cybersecurity, pausing some activities to strengthen controls. The \"Hugging Face incident\" highlights persistent multi-agent coordination failures involving externalized",
       "publishedAt": "2026-08-07T05:44:39.000Z",
       "category": "tech",
-      "source": "Smol AI News"
+      "source": "Smol AI News",
+      "summary": "OpenAI 因智能体编码与网络安全的重大进展，将其即将推出的 Astra 模型升级为「关键」网络状态，并暂停部分活动以加强控制；「Hugging Face 事件」则凸显多智能体协调失败的持续问题。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -2003,7 +2007,8 @@
       "excerpt": "a quiet day lets us find some connections among recent themes",
       "publishedAt": "2026-08-08T01:12:07.000Z",
       "category": "tech",
-      "source": "Latent Space"
+      "source": "Latent Space",
+      "summary": "在平静无大事的一天，Latent Space 的 AINews 从近期主题中梳理出联系，并以 Zawinski 定律审视多智能体的协作问题。"
     },
     {
       "sourceId": "latent-space",
@@ -2275,7 +2280,7 @@
       "category": "tech",
       "meta": "@DimitrisPapail · 28.5K 粉丝 · 142.1K 阅 · 522 赞 · 86 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "最近 GPT-5.6 与 Claude Fable 似乎解决了一个无线通信领域悬而未决 25 年的理论问题，该问题在 2000 至 2010 年代曾被广泛研究，作者本人也曾短暂涉足。这也许是 LLM 能力溢出到专业科研领域的一个案例。"
+      "summary": "GPT-5.6 与 Claude Fable 最近解决了无线通信领域一个开放理论问题，该问题在 2000 至 2010 年代被密集研究，作者也曾参与。AI 跨界解决经典难题的能力再获佐证。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2286,7 +2291,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 675.2K 粉丝 · 103.7K 阅 · 514 赞 · 29 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者用 Claude 构建出完整的个人自动化系统，宣称以此「克隆自己」并自动化了 80% 以上的日常生活。他强调这不是泛泛的 AI 第二大脑文章，而是会公开自己正在使用的确切系统与工作流。"
+      "summary": "作者用 Claude 搭建了一套具体系统，自称“克隆自己”，已自动化生活中 80% 以上的事务，并强调这不是泛泛的 AI 第二大脑文章，而是完整可复制的实操流程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2297,7 +2302,7 @@
       "category": "tech",
       "meta": "@hwchase17 · 124.4K 粉丝 · 86.0K 阅 · 506 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者团队发布 Managed Deep Agents，称其为构建、运行与部署生产级 agent 的最简单方式。文章重点讨论为何托管式（managed）agent 会成为 agent 构建领域的下一件大事，并配有完整发布博客与文档。"
+      "summary": "Harrison Chase 宣布发布 Managed Deep Agents，定位为构建、运行、部署生产级 agent 的最简单方式，并阐述为何托管式 agent 会成为 agent 开发的下一个大方向。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2308,7 +2313,7 @@
       "category": "tech",
       "meta": "@vasuman · 88.5K 粉丝 · 80.7K 阅 · 569 赞 · 33 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者认为「AI 普及」是个神话：你能看到这条帖文，就已经属于前 1% 的 AI 用户。真正的前沿玩家同时开着 20 个终端、用自动重写的知识库，普通人与他们之间差距巨大，说明多数人并未真正用上 AI。"
+      "summary": "作者认为 AI 采用是个神话：能读到这篇文章的你已是前 1% 的 AI 用户，与那些同时开 20 个终端、知识库实时重写的前沿玩家之间仍有巨大差距，所谓普及只是幸存者视角。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2319,7 +2324,7 @@
       "category": "tech",
       "meta": "@XFreeze · 253.7K 粉丝 · 60.9K 阅 · 515 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Build 在不到 12 周内从终端编码助手进化成完整的 agentic 软件工程平台，跻身全球最强大的 agent harness 之列。本文盘点它最值得了解的关键功能，展示其迭代速度与平台化野心。"
+      "summary": "不到 12 周，Grok Build 已从终端编码助手升级为完整的 agentic 软件工程平台，跻身全球最强 agent 框架之一。本文梳理了它最值得知道的核心功能。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2330,7 +2335,37 @@
       "category": "tech",
       "meta": "@jino_rohit · 6.9K 粉丝 · 20.3K 阅 · 519 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一篇学习笔记：作者尝试用 SGLang 开箱即用的 Torch Profiler 集成为 LLM 推理服务做性能剖析（profiling），目标是在实际压力下判断何时触及瓶颈。文章记录具体上手过程，属于实操型调优教程。"
+      "summary": "一篇上手笔记：用 SGLang 自带的 Torch Profiler 集成对 LLM 推理服务做性能剖析，目标是理解当请求变慢或吞吐下降时如何定位瓶颈。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Oil Gains as Iran Deal Eludes, Stocks Set to Rise: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Oil extended its gains in early Monday trading as Iran rejected talks with the US and a deal to reopen the vital Strait of Hormuz remained elusive. Asian stocks looked set to advance in catch-up trading.",
+      "publishedAt": "2026-08-09T22:11:01.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "周一早盘油价延续涨势，因伊朗拒绝与美国谈判，重启霍尔木兹海峡的协议仍难达成；亚洲股市则有望在补涨交易中走高。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Jetstar, Qatar Air Near Miss at Sydney Triggers Safety Probe",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/jetstar-qatar-air-near-miss-at-sydney-triggers-safety-probe",
+      "excerpt": "An air safety investigation is underway after a Jetstar plane and a Qatar Airways jet almost collided on the tarmac at Sydney airport on Sunday — the second near miss in two weeks.",
+      "publishedAt": "2026-08-09T23:26:49.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "悉尼机场周日发生捷星航空与卡塔尔航空飞机在停机坪险些相撞事件，已引发航空安全调查，这是两周内第二起险情。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Treasury Wine Flags $395 Million Writedown Over Excess US Supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/treasury-wine-flags-395m-writedown-to-tackle-excess-us-supply",
+      "excerpt": "Australia vintner Treasury Wine Estates Ltd. has flagged a A$558.4 million ($395 million) post-tax writedown ahead of its full year earnings on Thursday, as part of a broader effort to tackle supply chain problems in its US market.",
+      "publishedAt": "2026-08-09T23:19:48.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "澳大利亚葡萄酒商 Treasury Wine Estates 预告将进行5.584亿澳元（合3.95亿美元）的税后减值，以应对美国市场供应过剩及供应链问题，公司将于周四公布全年业绩。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2340,7 +2375,7 @@
       "publishedAt": "2026-08-09T22:02:45.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "伊朗与阿曼仍就重开霍尔木兹海峡达成协议存在差距，油价延续涨势；胡塞武装声称袭击红海附近的一处沙特炼油厂，令供应担忧进一步升温。"
+      "summary": "油价继续上涨，因伊朗与阿曼未能就重启霍尔木兹海峡达成协议，同时胡塞武装声称攻击了红海附近一座沙特炼油厂，加剧供应担忧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2350,17 +2385,7 @@
       "publishedAt": "2026-08-09T21:48:14.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "西太平洋银行利润小幅增长，存款和贷款增长部分抵消了楼市谨慎情绪。该行首席执行官对住房市场发出降温警告，表达出审慎看法。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Oil climbed in early Monday trading and US equity futures were steady as investors awaited signs of fresh progress on a deal to reopen the Strait of Hormuz.",
-      "publishedAt": "2026-08-09T22:11:01.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "油价周一早盘上涨，美国股指期货持稳，因投资者等待霍尔木兹海峡重开协议取得新进展的消息，协议仍未达成令市场持续观望。"
+      "summary": "西太平洋银行利润小幅增长，因存款和贷款增长抵消了首席执行官对住房市场降温的谨慎论调；该CEO此前警告市场正在放缓。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2370,7 +2395,7 @@
       "publishedAt": "2026-08-09T21:00:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国押注人工智能股票以与美国竞争芯片和技术主导地位。这一战略标志着北京突破依赖补贴和国家资金的模式，转向资本市场支持高科技产业。"
+      "summary": "中国押注人工智能股票，以在与美国围绕芯片和科技的竞赛中争取主导地位。这一战略标志着北京不再单纯依赖补贴和国家资金。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2380,7 +2405,7 @@
       "publishedAt": "2026-08-09T21:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "分析师称澳元兑日元有望重返约35年高位，因东京方面干预汇市的影响逐渐消退，加之澳大利亚联储鹰派立场为汇率提供支撑。"
+      "summary": "策略师称，随着日本汇市干预的影响消退，加之澳洲联储立场鹰派支撑汇率，澳元兑日元有望回升至接近35年高点的水平。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2390,7 +2415,7 @@
       "publishedAt": "2026-08-09T21:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "澳大利亚即将到来的小麦收成前景转好，为全球日益严峻的小麦供应前景提供了重要缓冲。市场对产量预期的乐观情绪上升，有望缓解供应紧张局面。"
+      "summary": "彭博社报道称，澳大利亚即将到来的小麦收成前景转趋乐观，这有助于缓解全球小麦供应日益严峻的展望，在关键时刻提供缓冲。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2400,7 +2425,7 @@
       "publishedAt": "2026-08-09T17:23:31.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "匈牙利央行重申支持政府为满足加入欧元区条件所做的努力，称加入欧元区将使经济受益，此举为政府推进入区进程注入了新的动力。"
+      "summary": "匈牙利央行重申支持政府为满足加入欧元区条件所做的努力，称加入欧元区将使经济受益。这是该行围绕欧元区成员资格的最新表态。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2409,8 +2434,7 @@
       "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Puerto Rico Resident Commissioner Rep. Pablo José Hernández Rivera, Royal Observatory Greenwich Pla",
       "publishedAt": "2026-08-09T15:57:13.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博《This Weekend》8月9日播出：市场休市时新闻不停歇。主持人大卫·古拉、克里斯蒂娜·鲁菲尼和丽莎·马特奥在纽约直播解读周末头条，波多黎各驻地专员巴勃罗·何塞·埃尔南德斯·里维拉等嘉宾参与。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2419,8 +2443,7 @@
       "excerpt": "$20 concert tickets, hoodies bulk, 'adversarial clothing,' ticks affecting Martha's Vineyard tourist season: Lisa Mateo joins David Gura and Christina Ruffini on Bloomberg This Weekend to share headlines you may have missed from over the week. (Source: Bloomberg)",
       "publishedAt": "2026-08-09T15:25:27.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "彭博《顺便一提》回顾本周易错过头条：20美元演唱会门票、连帽衫批发热潮、「对抗性服装」流行，以及蜱虫影响玛莎葡萄园旅游旺季。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2500,24 +2523,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-09/iran-talks-offer-little-relief-for-hormuz-shipping-video",
       "excerpt": "Iran and Oman are still discussing a temporary arrangement for shipping through the Strait of Hormuz, but attacks on regional energy infrastructure and major disagreements over transit rules are complicating negotiations. Bloomberg News White House Correspondent Skylar Woodhouse and Bloomberg News M",
       "publishedAt": "2026-08-09T12:08:57.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Barrick Chairman's Planned Overhaul Meets Investor Backlash",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/goldman-veteran-s-plan-to-split-barrick-runs-into-opposition",
-      "excerpt": "John Thornton appeared ready last year to step down as chairman of Barrick Mining Corp. after a turbulent 12-year tenure. Instead, he seized control from his long-time CEO and is now driving a reinvention of one of the world’s largest gold producers.",
-      "publishedAt": "2026-08-09T12:01:32.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Typhoon Dolphin Makes Landfall in East China After Red Alert",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
-      "excerpt": "Typhoon Dolphin made two landfalls in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services suspended as well.",
-      "publishedAt": "2026-08-09T06:14:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2703,13 +2708,23 @@
     },
     {
       "sourceId": "ft-companies",
+      "title": "Burnham promises to tackle false discounts in latest cost-of-living pledge",
+      "url": "https://www.ft.com/content/82922307-311d-499b-9798-0292d5f6b7ed?syn-25a6b1a6=1",
+      "excerpt": "",
+      "publishedAt": "2026-08-09T21:30:02.000Z",
+      "category": "finance",
+      "source": "Financial Times",
+      "summary": "伯纳姆在最新生活成本承诺中表示，将着力打击虚假折扣行为，确保商家促销价格真实可信，帮助消费者缓解生活成本压力。"
+    },
+    {
+      "sourceId": "ft-companies",
       "title": "FirstFT: Ex-CIA officials warn Donald Trump is dismantling US guardrails",
       "url": "https://www.ft.com/content/6e943917-2eeb-4654-b4ad-a4af76b4b946?syn-25a6b1a6=1",
       "excerpt": "Also in today’s newsletter: Kashmir protests test Pakistan’s military rulers and the bank behind China’s AI listings bonanza",
       "publishedAt": "2026-08-09T21:16:57.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国《金融时报》FirstFT：前CIA官员警告特朗普正拆除美国护栏；克什米尔抗议考验巴基斯坦军方统治者；报道中国AI上市热潮背后的银行。"
+      "summary": "前中情局官员警告，唐纳德·特朗普正在拆除美国的制度护栏。本期FirstFT还提到克什米尔抗议考验巴基斯坦军方统治者，以及中国AI上市热潮背后的银行。"
     },
     {
       "sourceId": "ft-companies",
@@ -2719,7 +2734,7 @@
       "publishedAt": "2026-08-09T17:15:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国一场独特的补选迎来终局。克拉克顿投票不太可能解决英国改革党领袖面临的严峻问题；另悉日食有望带来经济提振效应。"
+      "summary": "英国克拉克顿选区补选进入最后阶段，但投票结果不太可能解决围绕英国改革党领袖的重大疑问；此外，一场日食有望为当地带来经济提振。"
     },
     {
       "sourceId": "ft-companies",
@@ -2916,15 +2931,6 @@
       "url": "https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1",
       "excerpt": "Probe concludes that Trip.com Group abused its power as platform handling more than half of country’s hotel bookings",
       "publishedAt": "2026-08-08T00:54:25.000Z",
-      "category": "finance",
-      "source": "Financial Times"
-    },
-    {
-      "sourceId": "ft-companies",
-      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
-      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
-      "excerpt": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
-      "publishedAt": "2026-08-07T23:00:07.000Z",
       "category": "finance",
       "source": "Financial Times"
     },
@@ -3205,8 +3211,7 @@
       "excerpt": "Forget OPEC. The Chinese Communist Party now calls the shots",
       "publishedAt": "2026-08-09T16:22:40.000Z",
       "category": "finance",
-      "source": "The Economist Finance",
-      "summary": "《经济学人》文章称，中国已成为世界石油大国。文章指出，不必再看OPEC，中国共产党如今掌握着石油市场的话语权。"
+      "source": "The Economist Finance"
     },
     {
       "sourceId": "economist-finance",
@@ -3476,7 +3481,8 @@
       "excerpt": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "publishedAt": "2026-08-09T21:25:04.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "以色列总理内塔尼亚胡表示，拒绝特朗普的15点加沙计划，在哈马斯「真诚」解除武装之前，以色列军队不会从加沙撤出。"
     },
     {
       "sourceId": "bbc-world",
@@ -3485,7 +3491,8 @@
       "excerpt": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
       "publishedAt": "2026-08-09T20:58:18.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "疑似犯罪头目丹尼尔·基纳汉从迪拜被引渡后在爱尔兰出庭。爱尔兰监狱服务部门购买了一辆防弹防爆车辆，用于运送这名49岁男子。"
     },
     {
       "sourceId": "bbc-world",
@@ -3503,7 +3510,8 @@
       "excerpt": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
       "publishedAt": "2026-08-09T22:27:53.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "加拿大不列颠哥伦比亚省「秃岭」野火失控，已蔓延至136平方公里，居民被警告做好最坏准备。"
     },
     {
       "sourceId": "bbc-world",
@@ -3876,12 +3884,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+      "title": "Australia news live: Minns considers banning ebikes for under-12s in NSW; air safety chief says Sydney tarmac near-miss ‘unacceptable’",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "excerpt": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news live The NSW government is rolling out a new scheme of smart rental bonds, which will allow some renters to transfer their bonds from one rental to the next when they move house. T",
-      "publishedAt": "2026-08-09T22:39:36.000Z",
+      "excerpt": "Australian Transport Safety Bureau gathering information about circumstances surrounding the incident. Follow today’s news live Body of woman found in suitcase by side of road in regional NSW The body of a woman has been found in a suitcase by the side of a road south of Goulburn in regional New Sou",
+      "publishedAt": "2026-08-09T23:49:35.000Z",
       "category": "politics",
-      "source": "The Guardian"
+      "source": "The Guardian",
+      "summary": "澳大利亚新南威尔士州州长明斯考虑禁止12岁以下儿童使用电动自行车；航空安全负责人称悉尼机场停机坪险些相撞事件「不可接受」。澳大利亚交通安全局正在收集相关信息。"
     },
     {
       "sourceId": "guardian-world",
@@ -3890,7 +3899,8 @@
       "excerpt": "Police called to Oallen, about 40km south of Goulburn, on Sunday afternoon after suitcase discovered near Wolgon Road Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The body of a woman has been found in a suitcase by the side of a r",
       "publishedAt": "2026-08-09T22:37:00.000Z",
       "category": "politics",
-      "source": "The Guardian"
+      "source": "The Guardian",
+      "summary": "警方在位于新南威尔士州古尔本以南约40公里的奥伦镇沃尔根路附近发现一个行李箱，内有一名女性尸体。"
     },
     {
       "sourceId": "guardian-world",
@@ -4034,7 +4044,8 @@
       "excerpt": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
       "publishedAt": "2026-08-09T21:34:51.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "美国和以色列于2月28日对伊朗发动袭击，开启持续数月的战争，战火蔓延至周边国家并震动全球市场。这是伊朗战争时间线中的关键时刻。"
     },
     {
       "sourceId": "nyt-world",
@@ -4052,7 +4063,8 @@
       "excerpt": "President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.",
       "publishedAt": "2026-08-09T21:40:37.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "以色列拒绝特朗普提出的15点计划，该计划由特朗普和平委员会上月宣布，旨在促使哈马斯交出武器并换取以色列从加沙撤军。"
     },
     {
       "sourceId": "nyt-world",
@@ -4133,7 +4145,8 @@
       "excerpt": "Fire activity has increased sharply in British Columbia, with thousands evacuated from their homes just weeks after smoke from blazes in Ontario choked the East Coast.",
       "publishedAt": "2026-08-09T22:23:03.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "加拿大野火形势严峻，不列颠哥伦比亚省火灾活动急剧增加，数千人撤离家园；数周前安大略省的火灾浓烟曾笼罩美国东海岸。"
     },
     {
       "sourceId": "nyt-world",
@@ -4142,7 +4155,8 @@
       "excerpt": "A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.",
       "publishedAt": "2026-08-09T21:28:02.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "纽约时报一名摄影记者用文字和图像记录加沙地带民众的流离失所与危险，这些经历定义了他的家乡。"
     },
     {
       "sourceId": "nyt-world",
@@ -4286,7 +4300,8 @@
       "excerpt": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney.",
       "publishedAt": "2026-08-09T22:00:52.000Z",
       "category": "politics",
-      "source": "NPR World"
+      "source": "NPR World",
+      "summary": "荷兰车手德米·沃勒林（Demi Vollering）第二次夺得环法自行车赛冠军，她曾在2023年首次夺冠。本次她领先西班牙选手保拉·布拉西·凯罗尔和2024年冠军波兰选手卡塔日娜·涅维亚多马-菲尼超过一分钟。"
     },
     {
       "sourceId": "npr-world",
@@ -4295,7 +4310,8 @@
       "excerpt": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
       "publishedAt": "2026-08-09T21:27:11.000Z",
       "category": "politics",
-      "source": "NPR World"
+      "source": "NPR World",
+      "summary": "美国国家公共电台（NPR）近日采访哥伦比亚大学国际与公共事务学院教授彼得·萨利斯伯里，探讨伊朗及其「抵抗轴心」盟友如何影响并重塑中东战局。"
     },
     {
       "sourceId": "npr-world",
@@ -4641,12 +4657,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
+      "excerpt": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
+      "publishedAt": "2026-08-09T23:28:38.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "F-16战斗机在新泽西州贝德明斯特总统高尔夫俱乐部附近拦截两架进入限制空域的民用飞机，当时特朗普正在该俱乐部。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "excerpt": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "publishedAt": "2026-08-09T23:01:25.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "巴勒斯坦记者联合会报告称，7月发生108起针对巴勒斯坦记者的袭击。自2023年10月以来，加沙已有逾270名记者被杀。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "What’s driving unrest in Pakistan-administered Kashmir?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
       "excerpt": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.",
       "publishedAt": "2026-08-09T22:37:11.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "Al Jazeera",
+      "summary": "巴基斯坦管理的克什米尔地区正面临多年来最严重的政治危机。半岛电视台记者Ava Warriner分析动荡背后的原因。"
     },
     {
       "sourceId": "aljazeera",
@@ -4655,7 +4692,8 @@
       "excerpt": "Espionage, sabotage, cyberattacks, and covert operations are a 'constant reality', says Germany's interior minister.",
       "publishedAt": "2026-08-09T20:40:25.000Z",
       "category": "politics",
-      "source": "Al Jazeera"
+      "source": "Al Jazeera",
+      "summary": "德国在发现携带爆炸物的无人机后警告称，间谍、破坏、网络攻击和秘密行动是「持续的现实」，内政部长称面临「日常混合战」。"
     },
     {
       "sourceId": "aljazeera",
@@ -4843,24 +4881,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/9/syria-says-it-reached-deal-with-moscow-on-future-of-russian-bases?traffic_source=rss",
       "excerpt": "Hmeimim airbase and Tartus naval base will become joint training and capacity-building centres under the agreement.",
       "publishedAt": "2026-08-09T14:20:51.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Trump targets birthright citizenship again",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/trump-targets-birthright-citizenship-again?traffic_source=rss",
-      "excerpt": "US President Donald Trump has signed two new executive orders targeting birthright citizenship.",
-      "publishedAt": "2026-08-09T14:20:31.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
-      "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
-      "excerpt": "Experts warn Israel's new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
-      "publishedAt": "2026-08-09T13:54:41.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
